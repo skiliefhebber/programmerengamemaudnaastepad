@@ -1,0 +1,301 @@
+*{
+    margin:0;
+}
+body {
+    background-color:#EDEAE4;
+}
+
+.titel {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display:flex;
+    margin-left:700px;
+    font-size:xx-large;
+    margin-top:-200px;
+}
+
+.inleiding {
+    font-family:'Times New Roman', Times, serif;
+    margin-left:600px;
+    margin-bottom:50px;
+    margin-top:0px;
+}
+
+.button1 {
+    display:flex;
+    margin-left:680px;
+    margin-right:700px;
+    background-color:white;
+    border-radius:50px;
+    padding-left:8em;
+    padding-bottom:3em;
+    padding-top:3em;
+    border:white;
+    
+}
+
+a {
+    font-weight:bolder;
+    text-decoration:none;
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+}
+
+img {
+    width:400px;
+}
+
+.strikje1 {
+    margin-top:0px;
+    margin-left:50px;
+}
+
+.strikje2 {
+    margin-left:1200px;
+    margin-top:-100px;
+}
+
+.kledingkast {
+    width:1200px;
+    height:900px;
+}
+.blauwejurk {
+    margin-left:-818px;
+    margin-bottom:500px;
+    width:250px;
+}
+
+.gelejurk{
+    margin-left:-110px;
+    width:270px;
+    margin-bottom:500px;
+}
+
+#poppetjeaankleden {
+    height:53em;
+    width:63em;
+    margin-left:1200px;
+    margin-bottom:-850px;
+}
+
+.buttonklaar {
+    width:200px;
+    height:100px;
+    background-color:white;
+    border:white;
+    border-radius:3em;
+    position:absolute;
+    bottom:30px;;
+    right:20px;
+}
+
+.bloesje {
+    width:230px;
+    margin-left:-550px;
+    margin-bottom:160px;
+}
+
+.shirt {
+    width:180px;
+    margin-left:-860px;
+    margin-bottom:180px;
+}
+
+.spijkerrokje {
+    margin-bottom:510px;
+    width:180px;
+    margin-left:-1330px;
+}
+
+.kledinghanger1 {
+    width:150px;
+    margin-left:-1230px;
+    margin-bottom:600px;
+}
+
+.pantalon {
+    margin-left:300px;
+    width:415px;
+    margin-bottom:250px;
+}
+
+.kledinghanger2 {
+    width:150px;
+    margin-left:-770px;
+    margin-bottom:615px;
+}
+
+.converse {
+    width:130px;
+    margin-left:-1000px;
+    margin-bottom:70px;
+}
+
+.schoenen {
+    width:130px;
+    margin-left:-830px;
+    margin-bottom:70px;
+}
+
+.hidden {
+    opacity: 0;
+}
+
+.tweejurk {
+    position:absolute;
+    margin-left:515px;
+    margin-top:210px;
+}
+
+.tweegeeljurk {
+    margin-left:340px;
+    margin-bottom:330px;
+}
+
+.tweerokje {
+    margin-left:860px;
+    width:190px;
+    margin-bottom:360px;
+}
+
+.tweepantalon {
+    margin-left:40px;
+    margin-bottom:85px;
+    width:430px;
+}
+
+.tweebloesje {
+    width:220px;
+    margin-left:605px;
+    margin-bottom:490px;
+}
+
+.tweeshirt {
+    width:200px;
+    margin-left:460px;
+    margin-bottom:478px;
+}
+
+.tweeconverse {
+    width:150px;
+    margin-left:710px;
+    margin-bottom:32px;
+}
+
+.tweeschoenen {
+    width:120px;
+    margin-left:547px;
+    margin-bottom:53px;
+}
+
+.catwalk {
+    width:1700px;
+    height:900px;
+    position:absolute;
+}
+
+#pagina2 {
+    display:none;
+}
+
+#poppetjeaankleden2 {
+    height:53em;
+    width:63em;
+    margin-left:650px;
+    position:relative;
+}
+
+.spraakwolkje {
+    position:absolute;
+    bottom:50px;
+    left:80px;
+}
+
+.cijferkrijgen {
+    position:absolute;
+    bottom:220px;
+    left:160px;
+
+}
+
+.buttoncijfer {
+    width:200px;
+    height:100px;
+    background-color:white;
+    border:white;
+    border-radius:3em;
+    position:absolute;
+    left:500px;
+    top:50px;
+    font-weight:bolder;
+    text-decoration:none;
+}
+
+.paginatweeblauwejurk {
+    position:absolute;
+    bottom:248px;
+    right:705px;
+}
+
+.paginatweegelejurk {
+    position:absolute;
+    top:170px;
+    right:720px;
+}
+
+.paginatweerok {
+    position:absolute;
+    top:380px;
+    right:810px;
+}
+.paginatweepantalon {
+    position: absolute;
+    top:360px;
+    right:690px;
+}
+
+.paginatweebloesje {
+    position:absolute;
+    top:192px;
+    right:793px;
+}
+.paginatweeshirt {
+    position:absolute;
+    top:230px;
+    right:807px;
+}
+
+.paginatweeconverse {
+    position:absolute;
+    bottom:-40px;
+    left:44px;
+}
+
+.paginatweeschoenen {
+    position:absolute;
+    bottom:-50px;
+    left:210px;
+}
+
+.terugnaarhome {
+    background-color:white;
+    border-radius:50px;
+    padding-left:5em;
+    padding-right:5em;
+    padding-top:2.5em;
+    padding-bottom:2.5em;
+    border:white;
+    position:absolute;
+    left:10px;
+}
+
+.buttonopnieuw {
+    background-color:white;
+    border:white;
+    border-radius:3em;
+    position:absolute;
+    right:600px;
+    top:50px;
+    padding:2.5em;
+    font-weight:bolder;
+    text-decoration:none;
+}
